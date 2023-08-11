@@ -1,0 +1,18 @@
+#para{
+    text-align: justify;
+}
+
+@media only screen and (min-width:576px){
+    #para{
+    color: red;
+    text-align: left;
+}
+}
+
+@media only screen and (min-width:768px){
+    #para{
+    color: rgb(0, 234, 255);
+    text-align: right;
+}
+
+}
